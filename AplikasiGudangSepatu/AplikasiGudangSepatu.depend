@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616502231 source:d:\portofolio\aplikasigudangsepatu\aplikasigudangsepatu\aplikasigudangsepatu.cpp
+	"header.h"
+
+1616502210 d:\portofolio\aplikasigudangsepatu\aplikasigudangsepatu\header.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<iomanip>
+	<cmath>
+	<stdio.h>
+
+1616502245 source:d:\portofolio\aplikasigudangsepatu\aplikasigudangsepatu\main.cpp
+	"header.h"
+
